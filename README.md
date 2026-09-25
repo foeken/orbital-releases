@@ -1,2 +1,2 @@
-# tana-companion-releases
-Signed, notarized releases of Tana Companion (macOS)
+# Orbital Releases
+Signed, notarized releases of Orbital (macOS)
